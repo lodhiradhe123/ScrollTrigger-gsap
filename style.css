@@ -1,0 +1,40 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+#page1 {
+  width: 100%;
+  height: 100%;
+  background-color: royalblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#page2 {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(124, 150, 229);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#page3 {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(116, 135, 193);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#box {
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+}
